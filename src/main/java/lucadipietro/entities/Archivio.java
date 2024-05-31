@@ -60,7 +60,7 @@ public class Archivio {
             toWrite.append(elementoCatalogo.toString()).append(System.lineSeparator());
         }
 
-        File file = new File("Archivio.txt");
+        File file = new File("src/Archivio.txt");
         FileUtils.writeStringToFile(file, toWrite.toString(), "UTF-8");
     }
 

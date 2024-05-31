@@ -1,0 +1,20 @@
+Libro {ISBN = 9791617394668, titolo = 'Clouds of Witness', annoPubblicazione = 1934, numeroPagine = 403, autore = 'Sig. Baldassarre Negri', genere = 'Crime/Detective'}
+Libro {ISBN = 9790362602455, titolo = 'From Here to Eternity', annoPubblicazione = 1902, numeroPagine = 229, autore = 'Dott. Alessandro Amato', genere = 'Tall tale'}
+Libro {ISBN = 9790921128020, titolo = 'A Passage to India', annoPubblicazione = 1968, numeroPagine = 426, autore = 'Maristella Rinaldi', genere = 'Speech'}
+Libro {ISBN = 9791752684631, titolo = 'Ego Dominus Tuus', annoPubblicazione = 1997, numeroPagine = 687, autore = 'Tolomeo Ferrari', genere = 'Crime/Detective'}
+Libro {ISBN = 9791995114629, titolo = 'Paths of Glory', annoPubblicazione = 1931, numeroPagine = 1482, autore = 'Cleopatra Coppola', genere = 'Comic/Graphic Novel'}
+Libro {ISBN = 9791297365330, titolo = 'Ah, Wilderness!', annoPubblicazione = 2012, numeroPagine = 1437, autore = 'Serse Ruggiero', genere = 'Fanfiction'}
+Libro {ISBN = 9790057147056, titolo = 'Mr Standfast', annoPubblicazione = 1995, numeroPagine = 830, autore = 'Damiano Caruso', genere = 'Short story'}
+Libro {ISBN = 9781740286848, titolo = 'The Needle's Eye', annoPubblicazione = 2015, numeroPagine = 1296, autore = 'Felicia Ruggiero', genere = 'Essay'}
+Libro {ISBN = 9780302526712, titolo = 'Where Angels Fear to Tread', annoPubblicazione = 1975, numeroPagine = 795, autore = 'Erminia Cont', genere = 'Crime/Detective'}
+Libro {ISBN = 9791930294829, titolo = 'The Mermaids Singing', annoPubblicazione = 1947, numeroPagine = 660, autore = 'Carmela Milani', genere = 'Fantasy'}
+Rivista {ISBN = 9791085832679, titolo = 'Postern of Fate', annoPubblicazione = 2006, numeroPagine = 112, periodicità = MENSILE}
+Rivista {ISBN = 9791853737502, titolo = 'Tender Is the Night', annoPubblicazione = 2014, numeroPagine = 144, periodicità = MENSILE}
+Rivista {ISBN = 9790777517214, titolo = 'Some Buried Caesar', annoPubblicazione = 2013, numeroPagine = 45, periodicità = MENSILE}
+Rivista {ISBN = 9781925258707, titolo = 'Recalled to Life', annoPubblicazione = 2015, numeroPagine = 121, periodicità = MENSILE}
+Rivista {ISBN = 9791266977809, titolo = 'This Lime Tree Bower', annoPubblicazione = 2003, numeroPagine = 132, periodicità = MENSILE}
+Rivista {ISBN = 9781792332166, titolo = 'The House of Mirth', annoPubblicazione = 2005, numeroPagine = 112, periodicità = MENSILE}
+Rivista {ISBN = 9791861488564, titolo = 'Little Hands Clapping', annoPubblicazione = 2010, numeroPagine = 45, periodicità = MENSILE}
+Rivista {ISBN = 9791606803133, titolo = 'In Death Ground', annoPubblicazione = 2016, numeroPagine = 50, periodicità = MENSILE}
+Rivista {ISBN = 9791878135918, titolo = 'Vile Bodies', annoPubblicazione = 2005, numeroPagine = 75, periodicità = MENSILE}
+Rivista {ISBN = 9790025619158, titolo = 'Butter In a Lordly Dish', annoPubblicazione = 2006, numeroPagine = 46, periodicità = MENSILE}
