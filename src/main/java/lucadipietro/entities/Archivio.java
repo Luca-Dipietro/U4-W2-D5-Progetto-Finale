@@ -63,10 +63,11 @@ public class Archivio {
         File file = new File("Archivio.txt");
         FileUtils.writeStringToFile(file, toWrite.toString(), "UTF-8");
     }
-    
-}
+
 //    public List<ElementoCatalogo> caricamentoDalDisco() throws IOException {
 //        File file = new File("Archivio.txt");
 //
 //        String fileString = FileUtils.readFileToString(file, "UTF-8");
 //    }
+
+}
