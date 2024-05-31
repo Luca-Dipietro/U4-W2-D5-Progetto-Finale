@@ -47,11 +47,12 @@ public abstract class ElementoCatalogo {
 
     @Override
     public String toString() {
-        return "ElementoCatalogo {" +
+        return
                 "ISBN = " + ISBN +
-                ", titolo = '" + titolo + '\'' +
-                ", annoPubblicazione = " + annoPubblicazione +
-                ", numeroPagine = " + numeroPagine +
-                '}';
+                        ", titolo = '" + titolo + '\'' +
+                        ", annoPubblicazione = " + annoPubblicazione +
+                        ", numeroPagine = " + numeroPagine
+                ;
     }
+
 }
